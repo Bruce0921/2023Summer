@@ -1,5 +1,6 @@
 # 2023Summer
 Trying NLP
+For simple regression model:
 # Setup plotting
 
 ```python
